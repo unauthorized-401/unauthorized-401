@@ -1,7 +1,7 @@
 Hi, I'm Jiwon 👋
 
 📖 A graduate of Koreatech  
-🏢 SoluM Backend Engineer  
+🏢 SoluM Backend Engineer (2017.11.13 ~ 2023.02.28)
 💻 Java, Spring  
 💜 github.com/unauthorized-401  
 ✏️ velog.io/@unauthorized_401  
